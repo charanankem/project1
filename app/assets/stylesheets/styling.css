@@ -1,0 +1,25 @@
+.main-cont{
+    text-align: center;
+    background-image: linear-gradient(to right, cadetblue, chartreuse,lightskyblue);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.button-1{
+    font-size: 15px;
+    margin: 10px;
+}
+.main-head{
+    color: darkslategrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+.sub-main-cont{
+    background-color: white;
+    width: 40vw;
+    height: 40vh;
+    border-radius: 30px;
+    box-shadow: 2px 2px black;
+}
